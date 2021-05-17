@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... Creating and configuring DEVOPs projects
 - 🌱 I’m currently learning ... Cloud DevOps Engineer from udacity nano degree
 - 🌱 I’m currently learning ... Google Cloud 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 malak.esa@outlook.com
 00201223408414 whtsapp and signal 
