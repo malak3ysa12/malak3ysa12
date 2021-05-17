@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malak3ysa12
 - 👀 I’m interested in ... Creating and configuring DEVOPs projects
-- 🌱 I’m currently learning ... Cloud DevOps Engineer from udacity nano dgree
+- 🌱 I’m currently learning ... Cloud DevOps Engineer from udacity nano degree
 - 🌱 I’m currently learning ... Google Cloud 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
